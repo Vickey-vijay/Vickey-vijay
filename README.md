@@ -35,8 +35,8 @@ I'm a software engineer with a sharp focus on designing automation systems that 
 ## 🌐 Connect With Me
 
 - 🔗 **GitHub:** [github.com/Vickey-vijay](https://github.com/Vickey-vijay)  
-- 💼 **LinkedIn:** *(Add your LinkedIn profile link here)*  
-- 📧 **Email:** *(Add your professional email address here)*
+- 💼 **LinkedIn:** *(😅Yet to create)*  
+- 📧 **Email:** *(perryvickey421@gmail.com)*
 
 ---
 
