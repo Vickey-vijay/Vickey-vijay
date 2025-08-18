@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vickey (he/him)
 
-## 💼 Software Engineer | 🤖 Test Automation Specialist | 🧑‍💻 Freelancer | 📈 Market Analyst
+## 💼 Software Engineer | 🤖 Test Automation Specialist | 📈 Market Analyst
 
 I'm a software engineer with a sharp focus on designing automation systems that improve efficiency and eliminate repetitive work. My work spans across test automation, business process tools, and algorithmic trading systems, all driven by a strong foundation in Python.
 
