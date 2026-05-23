@@ -5,6 +5,7 @@
 📧 Email: vv6250625@gmail.com  
 📞 Phone: 9092430395  
 🔗 GitHub: https://github.com/Vickey-vijay/Vickey-vijay  
+⚒️ Upwork: https://www.upwork.com/freelancers/~0162c240e694acf8ab
 
 ---
 
