@@ -23,7 +23,7 @@ My work philosophy is automation-first: *remove repetition, build leverage, and 
 
 **B.Sc. Computer Design and Engineering**  
 **BITS Pilani University**  
-*Currently Pursuing*
+
 
 ---
 
